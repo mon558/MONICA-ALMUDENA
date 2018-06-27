@@ -1,0 +1,54 @@
+*{
+background-color: #C39BD3;
+}
+
+.colormenu{
+  color:black;
+  font-size: 30px;
+  font-style: italic;
+}
+.barra{
+  margin-bottom: 8px;
+  margin-top: 50px;
+}
+
+.tartass{
+  font-size:80px;
+  color: pink;
+}
+
+footer{
+  font-size: 30px;
+}
+.letraa{
+  font-size: 30px;
+}
+.m{
+  font-size: 20px;
+}
+.text-center{
+  font-size:110px;
+  color: #E91E63;
+}
+.barraa{
+  margin-top: 50px;
+}
+
+.fotos-rrss{
+border-radius: 18px;
+}
+.colorrojo{
+  color:#E91E63;
+}
+.color2pg{
+  color: #E91E63;
+  font-size: 30px;
+  font-style: italic;
+}
+.separacion2{
+  margin-bottom: 60px ;
+}
+.formatofinal{
+  color:black;
+  font-size: 30px;
+}
